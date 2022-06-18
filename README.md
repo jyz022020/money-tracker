@@ -9,9 +9,9 @@ WHEN the user reestablishes an internet connection
 THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
 
 # Work features screenshots
-First we start with beginning budget for $0. And we DO NOT HAVE INTERNET.(WIFI SIGN OFF)
+First we start with beginning budget for $0. 
 ![IMG_7508](https://user-images.githubusercontent.com/97587912/174456668-6b25b968-6be5-4959-82e0-b7e767c8a0cb.JPG)
-Then we add $600 into our budget, and name it offlineTest1. The system will tell you "Your transaction submitted."![IMG_7510](https://user-images.githubusercontent.com/97587912/174456732-88e56ec2-9044-447f-8a51-c46d7c2a0220.JPG)
+When we in a place without Internet,(WIFI SIGN OFF). We want to add $600 into our budget, and name it offlineTest1. The system will tell you "Your transaction submitted."![IMG_7510](https://user-images.githubusercontent.com/97587912/174456732-88e56ec2-9044-447f-8a51-c46d7c2a0220.JPG)
 We can also subtract the fund by $150.
 ![IMG_7514](https://user-images.githubusercontent.com/97587912/174456770-ab6232c2-fb24-4862-b1ed-b016fe33f50b.JPG)
 
